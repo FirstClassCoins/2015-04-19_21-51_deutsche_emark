@@ -1,4 +1,4 @@
-# Deutsche eMark [DEM] #
+# Awardcoin [AWC] #
 
 
 - SHA256D, Proof of Work + Proof of Stake
@@ -9,5 +9,4 @@
 - 100 blocks to coin maturation
 - 140 Character Transaction Messaging
 
-### Mandatory Wallet Update ###
-### from 1415750400; // 12 Nov 2014 00:00:00 GMT ###
+
